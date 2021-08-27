@@ -1,0 +1,473 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<tags>
+  <row Id="1" TagName="samsara" Count="52" ExcerptPostId="10560" WikiPostId="10559" />
+  <row Id="2" TagName="belief" Count="56" ExcerptPostId="2386" WikiPostId="2385" />
+  <row Id="3" TagName="enlightenment" Count="196" ExcerptPostId="3003" WikiPostId="3002" />
+  <row Id="4" TagName="karma" Count="438" ExcerptPostId="1291" WikiPostId="1290" />
+  <row Id="7" TagName="theravada" Count="713" ExcerptPostId="1830" WikiPostId="1829" />
+  <row Id="8" TagName="history" Count="158" ExcerptPostId="21" WikiPostId="20" />
+  <row Id="9" TagName="gender" Count="20" />
+  <row Id="10" TagName="conditionality" Count="8" />
+  <row Id="11" TagName="pratityasamutpada" Count="115" ExcerptPostId="55" WikiPostId="54" />
+  <row Id="12" TagName="doctrine" Count="19" ExcerptPostId="1995" WikiPostId="1994" />
+  <row Id="13" TagName="the-buddha" Count="361" ExcerptPostId="19" WikiPostId="18" />
+  <row Id="14" TagName="christianity" Count="19" />
+  <row Id="16" TagName="anatta" Count="2" ExcerptPostId="1580" WikiPostId="1579" />
+  <row Id="17" TagName="rebirth" Count="276" ExcerptPostId="2693" WikiPostId="2692" />
+  <row Id="18" TagName="self" Count="126" />
+  <row Id="20" TagName="impermanence" Count="78" ExcerptPostId="10558" WikiPostId="10557" />
+  <row Id="21" TagName="time" Count="32" />
+  <row Id="23" TagName="vajrayana" Count="70" ExcerptPostId="1548" WikiPostId="1547" />
+  <row Id="24" TagName="tibetan-buddhism" Count="166" ExcerptPostId="3007" WikiPostId="3006" />
+  <row Id="25" TagName="terminology" Count="153" ExcerptPostId="2973" WikiPostId="2972" />
+  <row Id="27" TagName="non-violence" Count="17" />
+  <row Id="28" TagName="zen" Count="146" ExcerptPostId="1511" WikiPostId="1510" />
+  <row Id="29" TagName="dependent-origination" Count="4" />
+  <row Id="30" TagName="paticcasamuppada" Count="4" />
+  <row Id="31" TagName="learning-materials" Count="22" ExcerptPostId="2977" WikiPostId="2976" />
+  <row Id="32" TagName="nirvana" Count="263" ExcerptPostId="176" WikiPostId="175" />
+  <row Id="33" TagName="mahayana" Count="317" ExcerptPostId="1832" WikiPostId="1831" />
+  <row Id="34" TagName="reference-request" Count="462" ExcerptPostId="3568" WikiPostId="3567" />
+  <row Id="37" TagName="philosophy" Count="354" ExcerptPostId="2390" WikiPostId="2389" />
+  <row Id="40" TagName="bodhisattva" Count="56" ExcerptPostId="2388" WikiPostId="2387" />
+  <row Id="41" TagName="arhats" Count="19" ExcerptPostId="10572" WikiPostId="10571" />
+  <row Id="42" TagName="sleep" Count="31" ExcerptPostId="5871" WikiPostId="5870" />
+  <row Id="43" TagName="sects" Count="12" />
+  <row Id="44" TagName="science" Count="98" ExcerptPostId="2965" WikiPostId="2964" />
+  <row Id="45" TagName="wrongview" Count="26" />
+  <row Id="47" TagName="five-precepts" Count="141" ExcerptPostId="94" WikiPostId="93" />
+  <row Id="50" TagName="worship" Count="13" />
+  <row Id="52" TagName="anatman" Count="177" ExcerptPostId="7136" WikiPostId="7135" />
+  <row Id="53" TagName="laws" Count="12" />
+  <row Id="54" TagName="yoga" Count="12" />
+  <row Id="55" TagName="bon" Count="8" />
+  <row Id="58" TagName="sutras" Count="299" ExcerptPostId="2959" WikiPostId="2958" />
+  <row Id="59" TagName="hinduism" Count="41" />
+  <row Id="69" TagName="ordination" Count="30" />
+  <row Id="70" TagName="monk" Count="109" ExcerptPostId="3005" WikiPostId="3004" />
+  <row Id="71" TagName="jhana" Count="129" ExcerptPostId="2029" WikiPostId="2028" />
+  <row Id="72" TagName="visuddhimagga" Count="18" ExcerptPostId="10564" WikiPostId="10563" />
+  <row Id="73" TagName="stream-entry" Count="44" ExcerptPostId="10480" WikiPostId="10479" />
+  <row Id="74" TagName="killing" Count="44" />
+  <row Id="77" TagName="evil" Count="13" />
+  <row Id="78" TagName="money" Count="9" />
+  <row Id="81" TagName="right-livelihood" Count="51" ExcerptPostId="3021" WikiPostId="3020" />
+  <row Id="82" TagName="art" Count="41" ExcerptPostId="2963" WikiPostId="2962" />
+  <row Id="83" TagName="texts" Count="152" ExcerptPostId="2961" WikiPostId="2960" />
+  <row Id="84" TagName="canon" Count="15" />
+  <row Id="85" TagName="food" Count="39" />
+  <row Id="86" TagName="traditions" Count="82" ExcerptPostId="3009" WikiPostId="3008" />
+  <row Id="87" TagName="abhidhamma" Count="80" ExcerptPostId="10562" WikiPostId="10561" />
+  <row Id="89" TagName="learning" Count="21" />
+  <row Id="92" TagName="vipassana" Count="340" ExcerptPostId="2473" WikiPostId="2472" />
+  <row Id="93" TagName="samatha" Count="56" ExcerptPostId="5627" WikiPostId="5626" />
+  <row Id="96" TagName="shingon" Count="2" />
+  <row Id="97" TagName="mindfulness" Count="246" ExcerptPostId="2957" WikiPostId="2956" />
+  <row Id="99" TagName="satipatthana" Count="51" ExcerptPostId="2975" WikiPostId="2974" />
+  <row Id="100" TagName="teachers" Count="54" ExcerptPostId="3013" WikiPostId="3012" />
+  <row Id="101" TagName="pali-canon" Count="415" ExcerptPostId="1716" WikiPostId="1715" />
+  <row Id="102" TagName="temples" Count="14" />
+  <row Id="103" TagName="right-speech" Count="43" ExcerptPostId="3025" WikiPostId="3024" />
+  <row Id="105" TagName="vegetarianism" Count="28" />
+  <row Id="106" TagName="attachment" Count="83" ExcerptPostId="10495" WikiPostId="10494" />
+  <row Id="107" TagName="teaching" Count="120" ExcerptPostId="3011" WikiPostId="3010" />
+  <row Id="109" TagName="sexual-misconduct" Count="27" />
+  <row Id="111" TagName="monastery" Count="23" />
+  <row Id="112" TagName="pure-land" Count="16" ExcerptPostId="3049" WikiPostId="3048" />
+  <row Id="114" TagName="nichiren" Count="16" />
+  <row Id="116" TagName="phenomenology" Count="9" />
+  <row Id="117" TagName="nagarjuna" Count="20" ExcerptPostId="3031" WikiPostId="3030" />
+  <row Id="120" TagName="fundamentals" Count="7" />
+  <row Id="121" TagName="four-noble-truths" Count="52" />
+  <row Id="123" TagName="controversy" Count="11" />
+  <row Id="124" TagName="kwan-yin" Count="5" />
+  <row Id="126" TagName="bhikkhu" Count="10" ExcerptPostId="3019" WikiPostId="3018" />
+  <row Id="130" TagName="religion" Count="28" />
+  <row Id="131" TagName="mind-and-matter" Count="24" />
+  <row Id="132" TagName="chinese-buddhism" Count="28" />
+  <row Id="134" TagName="bodhisattva-vows" Count="17" />
+  <row Id="138" TagName="east-asian-buddhism" Count="5" />
+  <row Id="139" TagName="statue" Count="17" />
+  <row Id="140" TagName="rituals" Count="28" ExcerptPostId="31483" WikiPostId="31482" />
+  <row Id="141" TagName="beginner" Count="58" ExcerptPostId="5625" WikiPostId="5624" />
+  <row Id="144" TagName="truth" Count="35" />
+  <row Id="147" TagName="laity" Count="21" />
+  <row Id="148" TagName="suicide" Count="19" />
+  <row Id="152" TagName="buddha-nature" Count="44" />
+  <row Id="153" TagName="precept" Count="21" />
+  <row Id="154" TagName="thai" Count="6" />
+  <row Id="157" TagName="pali-language" Count="74" ExcerptPostId="2967" WikiPostId="2966" />
+  <row Id="162" TagName="demographics" Count="4" ExcerptPostId="3293" WikiPostId="3292" />
+  <row Id="164" TagName="academic-buddhism" Count="51" ExcerptPostId="10570" WikiPostId="10569" />
+  <row Id="165" TagName="shin-buddhism" Count="3" />
+  <row Id="166" TagName="insight" Count="35" />
+  <row Id="167" TagName="consciousness" Count="88" />
+  <row Id="170" TagName="jainism" Count="9" ExcerptPostId="10638" WikiPostId="10637" />
+  <row Id="171" TagName="god" Count="47" />
+  <row Id="173" TagName="chinese-canon" Count="7" />
+  <row Id="175" TagName="sunyata" Count="96" ExcerptPostId="10568" WikiPostId="10567" />
+  <row Id="176" TagName="sexuality" Count="53" ExcerptPostId="5629" WikiPostId="5628" />
+  <row Id="177" TagName="vinaya" Count="61" ExcerptPostId="7633" WikiPostId="7632" />
+  <row Id="180" TagName="defilements" Count="17" />
+  <row Id="181" TagName="samadhi" Count="52" />
+  <row Id="182" TagName="reality" Count="43" />
+  <row Id="185" TagName="iconography" Count="26" />
+  <row Id="186" TagName="refuge" Count="21" />
+  <row Id="187" TagName="soul" Count="26" />
+  <row Id="189" TagName="justice" Count="13" />
+  <row Id="190" TagName="compassion" Count="105" />
+  <row Id="191" TagName="dalai-lama" Count="22" ExcerptPostId="5918" WikiPostId="5917" />
+  <row Id="192" TagName="avalokitesvara" Count="6" />
+  <row Id="193" TagName="non-buddhism" Count="6" />
+  <row Id="194" TagName="monasticism" Count="66" ExcerptPostId="10556" WikiPostId="10555" />
+  <row Id="195" TagName="tantra" Count="26" />
+  <row Id="197" TagName="dilemma" Count="6" />
+  <row Id="198" TagName="sangha" Count="37" />
+  <row Id="199" TagName="atheism" Count="6" ExcerptPostId="10598" WikiPostId="10597" />
+  <row Id="203" TagName="dhammapada" Count="24" ExcerptPostId="8812" WikiPostId="8811" />
+  <row Id="204" TagName="alan-watts" Count="5" ExcerptPostId="3232" WikiPostId="3231" />
+  <row Id="205" TagName="conversion" Count="5" />
+  <row Id="207" TagName="gautama-buddha" Count="34" ExcerptPostId="10566" WikiPostId="10565" />
+  <row Id="208" TagName="buddhas" Count="61" ExcerptPostId="4024" WikiPostId="4023" />
+  <row Id="209" TagName="scripture" Count="32" />
+  <row Id="212" TagName="prajnaparamita" Count="12" />
+  <row Id="215" TagName="mudra" Count="9" ExcerptPostId="10629" WikiPostId="10628" />
+  <row Id="216" TagName="literature" Count="13" />
+  <row Id="217" TagName="beatnik" Count="3" ExcerptPostId="3291" WikiPostId="3290" />
+  <row Id="218" TagName="comparative-religion" Count="89" ExcerptPostId="2645" WikiPostId="2644" />
+  <row Id="220" TagName="nana" Count="6" />
+  <row Id="222" TagName="secular-buddhism" Count="26" />
+  <row Id="224" TagName="anapanasati" Count="67" ExcerptPostId="3015" WikiPostId="3014" />
+  <row Id="226" TagName="dana" Count="48" ExcerptPostId="2969" WikiPostId="2968" />
+  <row Id="227" TagName="death" Count="83" />
+  <row Id="228" TagName="ethics" Count="331" ExcerptPostId="7631" WikiPostId="7630" />
+  <row Id="232" TagName="holidays" Count="8" ExcerptPostId="3017" WikiPostId="3016" />
+  <row Id="233" TagName="relationship" Count="52" />
+  <row Id="234" TagName="parents" Count="47" ExcerptPostId="2971" WikiPostId="2970" />
+  <row Id="236" TagName="evolution" Count="13" />
+  <row Id="239" TagName="middle-way" Count="25" ExcerptPostId="10620" WikiPostId="10619" />
+  <row Id="240" TagName="prayer" Count="16" />
+  <row Id="241" TagName="legends" Count="6" />
+  <row Id="242" TagName="right-intention" Count="36" ExcerptPostId="3023" WikiPostId="3022" />
+  <row Id="243" TagName="lay-buddhism" Count="232" ExcerptPostId="5496" WikiPostId="5495" />
+  <row Id="245" TagName="wheel-of-life" Count="11" />
+  <row Id="246" TagName="hinayana" Count="8" />
+  <row Id="252" TagName="koans" Count="15" />
+  <row Id="253" TagName="dreams" Count="19" />
+  <row Id="255" TagName="maitreya-buddha" Count="11" />
+  <row Id="256" TagName="mantra" Count="26" />
+  <row Id="257" TagName="new-age-buddhism" Count="8" />
+  <row Id="258" TagName="kleshas" Count="6" />
+  <row Id="259" TagName="nidanas" Count="19" />
+  <row Id="260" TagName="repentance" Count="4" />
+  <row Id="261" TagName="taoism" Count="14" />
+  <row Id="263" TagName="brahma" Count="13" />
+  <row Id="264" TagName="deva" Count="19" />
+  <row Id="268" TagName="five-hindrances" Count="50" ExcerptPostId="2691" WikiPostId="2690" />
+  <row Id="269" TagName="six-realms" Count="7" />
+  <row Id="274" TagName="free-will" Count="15" />
+  <row Id="275" TagName="birth-stories" Count="3" ExcerptPostId="10600" WikiPostId="10599" />
+  <row Id="277" TagName="western-philosophy" Count="46" />
+  <row Id="281" TagName="right-view" Count="72" ExcerptPostId="3029" WikiPostId="3028" />
+  <row Id="282" TagName="right-effort" Count="39" ExcerptPostId="3027" WikiPostId="3026" />
+  <row Id="283" TagName="books" Count="44" ExcerptPostId="2952" WikiPostId="2951" />
+  <row Id="286" TagName="daily-life" Count="88" />
+  <row Id="288" TagName="amitabha" Count="4" />
+  <row Id="289" TagName="modern-world" Count="169" ExcerptPostId="3083" WikiPostId="3082" />
+  <row Id="291" TagName="vedas" Count="11" />
+  <row Id="293" TagName="triratna-buddhism" Count="12" ExcerptPostId="3230" WikiPostId="3229" />
+  <row Id="296" TagName="dzogchen" Count="9" ExcerptPostId="10604" WikiPostId="10603" />
+  <row Id="297" TagName="tipitaka" Count="67" ExcerptPostId="10653" WikiPostId="10652" />
+  <row Id="298" TagName="mara" Count="17" ExcerptPostId="10631" WikiPostId="10630" />
+  <row Id="301" TagName="doubt" Count="49" />
+  <row Id="304" TagName="anagami" Count="9" />
+  <row Id="307" TagName="stages-of-the-path" Count="43" />
+  <row Id="309" TagName="ignorance" Count="38" ExcerptPostId="10614" WikiPostId="10613" />
+  <row Id="312" TagName="liberation" Count="10" />
+  <row Id="314" TagName="faith" Count="22" ExcerptPostId="10618" WikiPostId="10617" />
+  <row Id="315" TagName="marriage" Count="20" ExcerptPostId="29290" WikiPostId="29289" />
+  <row Id="318" TagName="early-buddhism" Count="52" />
+  <row Id="319" TagName="eight-precepts" Count="23" />
+  <row Id="320" TagName="shikantaza" Count="5" />
+  <row Id="326" TagName="tanha" Count="17" ExcerptPostId="10596" WikiPostId="10595" />
+  <row Id="328" TagName="suffering" Count="129" />
+  <row Id="329" TagName="meal-gatha" Count="2" />
+  <row Id="337" TagName="avatamsaka-suttra" Count="5" />
+  <row Id="339" TagName="sati" Count="22" />
+  <row Id="341" TagName="debate" Count="11" />
+  <row Id="343" TagName="eightfold-path" Count="57" ExcerptPostId="10574" WikiPostId="10573" />
+  <row Id="344" TagName="trikaya" Count="6" />
+  <row Id="348" TagName="yogacara" Count="21" />
+  <row Id="350" TagName="reincarnation" Count="49" />
+  <row Id="351" TagName="equanimity" Count="24" />
+  <row Id="352" TagName="causes" Count="17" />
+  <row Id="353" TagName="intoxicants" Count="14" ExcerptPostId="5609" WikiPostId="5608" />
+  <row Id="354" TagName="psychology" Count="38" />
+  <row Id="355" TagName="psychic-powers" Count="31" />
+  <row Id="360" TagName="well-being" Count="33" ExcerptPostId="5914" WikiPostId="5913" />
+  <row Id="362" TagName="chant" Count="7" ExcerptPostId="30655" WikiPostId="30654" />
+  <row Id="364" TagName="judaism" Count="6" ExcerptPostId="6031" WikiPostId="6030" />
+  <row Id="370" TagName="layman" Count="20" />
+  <row Id="371" TagName="personal-practice" Count="679" ExcerptPostId="7153" WikiPostId="7152" />
+  <row Id="376" TagName="islam" Count="5" />
+  <row Id="377" TagName="community" Count="8" />
+  <row Id="378" TagName="integration" Count="3" />
+  <row Id="380" TagName="right-mindfulness" Count="22" />
+  <row Id="381" TagName="media" Count="23" />
+  <row Id="382" TagName="buddhadharma" Count="26" />
+  <row Id="385" TagName="dharmakaya" Count="6" />
+  <row Id="389" TagName="negation" Count="1" ExcerptPostId="10538" WikiPostId="10537" />
+  <row Id="390" TagName="sila" Count="67" />
+  <row Id="392" TagName="animals" Count="33" />
+  <row Id="393" TagName="merit" Count="39" ExcerptPostId="13375" WikiPostId="13374" />
+  <row Id="397" TagName="ahimsa" Count="2" ExcerptPostId="10588" WikiPostId="10587" />
+  <row Id="401" TagName="tendai" Count="12" />
+  <row Id="403" TagName="three-lakshanas" Count="11" />
+  <row Id="405" TagName="language" Count="19" />
+  <row Id="408" TagName="loving-kindness" Count="20" />
+  <row Id="409" TagName="metta-bhavana" Count="12" />
+  <row Id="413" TagName="unconditioned" Count="10" />
+  <row Id="414" TagName="dhammas" Count="52" ExcerptPostId="29288" WikiPostId="29287" />
+  <row Id="415" TagName="emptiness" Count="3" />
+  <row Id="417" TagName="roykan" Count="2" />
+  <row Id="418" TagName="access-concentration" Count="6" ExcerptPostId="10554" WikiPostId="10553" />
+  <row Id="419" TagName="five-skandas" Count="42" ExcerptPostId="10576" WikiPostId="10575" />
+  <row Id="420" TagName="suchness" Count="3" ExcerptPostId="10540" WikiPostId="10539" />
+  <row Id="423" TagName="alaya-vijnana" Count="6" />
+  <row Id="425" TagName="final-nirvana" Count="11" />
+  <row Id="427" TagName="nihilism" Count="13" ExcerptPostId="10633" WikiPostId="10632" />
+  <row Id="428" TagName="sotapanna" Count="21" ExcerptPostId="10544" WikiPostId="10543" />
+  <row Id="429" TagName="sakadagami" Count="5" ExcerptPostId="10548" WikiPostId="10547" />
+  <row Id="430" TagName="arahant" Count="37" ExcerptPostId="10594" WikiPostId="10593" />
+  <row Id="431" TagName="suttas" Count="28" />
+  <row Id="432" TagName="study" Count="9" />
+  <row Id="434" TagName="japan" Count="4" />
+  <row Id="436" TagName="politics" Count="13" />
+  <row Id="437" TagName="dharmas" Count="22" />
+  <row Id="438" TagName="pain" Count="19" />
+  <row Id="441" TagName="energy" Count="16" />
+  <row Id="445" TagName="heavens" Count="9" />
+  <row Id="448" TagName="right-action" Count="17" ExcerptPostId="10586" WikiPostId="10585" />
+  <row Id="449" TagName="vietnamese-buddhism" Count="2" />
+  <row Id="450" TagName="chanting" Count="9" ExcerptPostId="10580" WikiPostId="10579" />
+  <row Id="451" TagName="shariputra" Count="1" ExcerptPostId="10578" WikiPostId="10577" />
+  <row Id="452" TagName="lotus-sutra" Count="16" />
+  <row Id="459" TagName="mahasi-sayadaw" Count="23" />
+  <row Id="460" TagName="sn-goenka" Count="22" />
+  <row Id="461" TagName="sariputta" Count="3" ExcerptPostId="10546" WikiPostId="10545" />
+  <row Id="463" TagName="bhavanga" Count="3" ExcerptPostId="10582" WikiPostId="10581" />
+  <row Id="466" TagName="patience" Count="11" />
+  <row Id="467" TagName="anger" Count="38" />
+  <row Id="469" TagName="meditation-breath" Count="77" ExcerptPostId="10057" WikiPostId="10056" />
+  <row Id="470" TagName="meditation-insight" Count="139" ExcerptPostId="9528" WikiPostId="9527" />
+  <row Id="471" TagName="meditation-zazen" Count="21" />
+  <row Id="472" TagName="meditation-posture" Count="27" ExcerptPostId="10195" WikiPostId="10194" />
+  <row Id="473" TagName="meditation-visualisation" Count="9" />
+  <row Id="474" TagName="meditation-concentration" Count="48" ExcerptPostId="10197" WikiPostId="10196" />
+  <row Id="475" TagName="meditation-mindfulness" Count="48" ExcerptPostId="10199" WikiPostId="10198" />
+  <row Id="477" TagName="meditation-samatha" Count="24" ExcerptPostId="10059" WikiPostId="10058" />
+  <row Id="478" TagName="meditation-hindrances" Count="85" ExcerptPostId="9784" WikiPostId="9783" />
+  <row Id="479" TagName="meditation-recommendation" Count="124" ExcerptPostId="9782" WikiPostId="9781" />
+  <row Id="480" TagName="meditation-metta" Count="31" />
+  <row Id="481" TagName="meditation-practicalities" Count="213" ExcerptPostId="9530" WikiPostId="9529" />
+  <row Id="482" TagName="meditation-teachers" Count="25" ExcerptPostId="10201" WikiPostId="10200" />
+  <row Id="483" TagName="prostration" Count="2" />
+  <row Id="484" TagName="lotus-position" Count="2" ExcerptPostId="10612" WikiPostId="10611" />
+  <row Id="485" TagName="spiritual-materialism" Count="9" ExcerptPostId="10552" WikiPostId="10551" />
+  <row Id="486" TagName="chogyam-trungpa" Count="6" />
+  <row Id="487" TagName="shaolin" Count="3" />
+  <row Id="488" TagName="nimitta" Count="9" />
+  <row Id="489" TagName="meditation-effects" Count="108" ExcerptPostId="9786" WikiPostId="9785" />
+  <row Id="490" TagName="meditation-body" Count="32" ExcerptPostId="9521" WikiPostId="9520" />
+  <row Id="491" TagName="tibetan" Count="12" />
+  <row Id="492" TagName="qigong" Count="3" ExcerptPostId="10606" WikiPostId="10605" />
+  <row Id="494" TagName="meditation-classification" Count="18" ExcerptPostId="10219" WikiPostId="10218" />
+  <row Id="496" TagName="rupa" Count="9" ExcerptPostId="10608" WikiPostId="10607" />
+  <row Id="499" TagName="experiential" Count="16" ExcerptPostId="10616" WikiPostId="10615" />
+  <row Id="502" TagName="mind-states" Count="18" />
+  <row Id="504" TagName="meditation-walking" Count="7" />
+  <row Id="505" TagName="dukkha" Count="68" ExcerptPostId="10592" WikiPostId="10591" />
+  <row Id="506" TagName="brahmavihara" Count="23" />
+  <row Id="507" TagName="western-buddhism" Count="22" />
+  <row Id="508" TagName="realms" Count="42" />
+  <row Id="510" TagName="bhikkhuni" Count="10" ExcerptPostId="10584" WikiPostId="10583" />
+  <row Id="513" TagName="mental-factors" Count="18" />
+  <row Id="514" TagName="martial-arts" Count="4" ExcerptPostId="10610" WikiPostId="10609" />
+  <row Id="515" TagName="abidhamma" Count="7" ExcerptPostId="10602" WikiPostId="10601" />
+  <row Id="516" TagName="mind" Count="93" />
+  <row Id="518" TagName="thoughtprocess" Count="18" />
+  <row Id="519" TagName="wisdom" Count="37" />
+  <row Id="523" TagName="retreat" Count="15" />
+  <row Id="525" TagName="nonduality" Count="28" ExcerptPostId="9840" WikiPostId="9839" />
+  <row Id="526" TagName="mythology" Count="6" ExcerptPostId="10550" WikiPostId="10549" />
+  <row Id="529" TagName="culture" Count="7" />
+  <row Id="530" TagName="buddha" Count="161" ExcerptPostId="21048" WikiPostId="21047" />
+  <row Id="531" TagName="music" Count="7" />
+  <row Id="532" TagName="commentary" Count="9" />
+  <row Id="534" TagName="human" Count="18" />
+  <row Id="536" TagName="past-lives" Count="16" />
+  <row Id="537" TagName="fetters" Count="16" ExcerptPostId="10590" WikiPostId="10589" />
+  <row Id="539" TagName="meditation" Count="451" ExcerptPostId="34164" WikiPostId="34163" />
+  <row Id="543" TagName="buddhist-cosmology" Count="24" ExcerptPostId="10627" WikiPostId="10626" />
+  <row Id="544" TagName="craving" Count="50" />
+  <row Id="545" TagName="aggregates" Count="24" />
+  <row Id="547" TagName="bardo" Count="6" />
+  <row Id="549" TagName="six-senses" Count="19" />
+  <row Id="555" TagName="jataka" Count="10" />
+  <row Id="559" TagName="general-buddhism" Count="9" />
+  <row Id="560" TagName="milindapanha" Count="3" />
+  <row Id="562" TagName="pilgrimage" Count="4" />
+  <row Id="564" TagName="volition" Count="8" />
+  <row Id="565" TagName="love" Count="27" ExcerptPostId="29723" WikiPostId="29722" />
+  <row Id="567" TagName="pali" Count="50" />
+  <row Id="568" TagName="modernism" Count="3" />
+  <row Id="576" TagName="sceptic" Count="16" ExcerptPostId="11500" WikiPostId="11499" />
+  <row Id="579" TagName="medical-science" Count="7" />
+  <row Id="581" TagName="perception" Count="22" />
+  <row Id="583" TagName="paramitas" Count="9" />
+  <row Id="587" TagName="technique" Count="9" />
+  <row Id="602" TagName="practice" Count="66" />
+  <row Id="610" TagName="soto" Count="13" />
+  <row Id="612" TagName="three-poisons" Count="12" />
+  <row Id="616" TagName="translation" Count="38" />
+  <row Id="619" TagName="lay-practices" Count="28" />
+  <row Id="627" TagName="sankhara" Count="27" />
+  <row Id="631" TagName="motivation" Count="16" />
+  <row Id="634" TagName="goals" Count="5" />
+  <row Id="635" TagName="alan-wallace" Count="10" />
+  <row Id="644" TagName="mandala" Count="2" />
+  <row Id="654" TagName="desire" Count="41" />
+  <row Id="655" TagName="buddhist-miracles" Count="8" />
+  <row Id="657" TagName="bhavana" Count="4" />
+  <row Id="664" TagName="pchychological-trauma" Count="2" />
+  <row Id="672" TagName="metta" Count="61" />
+  <row Id="680" TagName="bodhipakkhiyadhamma" Count="3" />
+  <row Id="687" TagName="autosuggestion" Count="3" />
+  <row Id="690" TagName="contemplation" Count="14" />
+  <row Id="700" TagName="knowledge" Count="18" />
+  <row Id="703" TagName="untagged" Count="6" ExcerptPostId="23750" WikiPostId="23749" />
+  <row Id="705" TagName="hells" Count="17" />
+  <row Id="706" TagName="meat" Count="9" />
+  <row Id="708" TagName="rules" Count="15" />
+  <row Id="709" TagName="dogen" Count="9" />
+  <row Id="713" TagName="simile" Count="3" />
+  <row Id="721" TagName="buddhist" Count="19" />
+  <row Id="722" TagName="becoming" Count="3" />
+  <row Id="725" TagName="superiority" Count="2" />
+  <row Id="726" TagName="society" Count="22" />
+  <row Id="729" TagName="path" Count="11" />
+  <row Id="730" TagName="four-elements" Count="6" />
+  <row Id="744" TagName="life" Count="46" />
+  <row Id="749" TagName="ascetic" Count="3" />
+  <row Id="753" TagName="delusion" Count="9" />
+  <row Id="755" TagName="copyright" Count="3" />
+  <row Id="760" TagName="english" Count="3" />
+  <row Id="767" TagName="comparison" Count="5" />
+  <row Id="779" TagName="correct-interpretation" Count="11" />
+  <row Id="780" TagName="consistent" Count="2" />
+  <row Id="787" TagName="atta" Count="5" />
+  <row Id="791" TagName="depression" Count="11" />
+  <row Id="793" TagName="habits" Count="11" />
+  <row Id="796" TagName="wishful" Count="2" />
+  <row Id="797" TagName="thinking" Count="13" />
+  <row Id="799" TagName="argumentation" Count="4" />
+  <row Id="806" TagName="university" Count="2" />
+  <row Id="820" TagName="lie" Count="4" />
+  <row Id="821" TagName="intention" Count="13" />
+  <row Id="830" TagName="panna" Count="6" />
+  <row Id="836" TagName="veneration" Count="7" />
+  <row Id="837" TagName="awareness" Count="17" />
+  <row Id="844" TagName="mahasi" Count="4" />
+  <row Id="847" TagName="three-characteristics" Count="8" />
+  <row Id="849" TagName="karuna" Count="9" />
+  <row Id="850" TagName="lay-person" Count="16" />
+  <row Id="852" TagName="nembutsu" Count="2" />
+  <row Id="853" TagName="children" Count="10" />
+  <row Id="856" TagName="right-concentration" Count="10" />
+  <row Id="861" TagName="fasting" Count="6" ExcerptPostId="25776" WikiPostId="25775" />
+  <row Id="863" TagName="labeling" Count="2" />
+  <row Id="872" TagName="sastras" Count="2" />
+  <row Id="881" TagName="meditation-daily-activities" Count="4" ExcerptPostId="22001" WikiPostId="22000" />
+  <row Id="888" TagName="sentient" Count="6" />
+  <row Id="889" TagName="skillful-means" Count="13" />
+  <row Id="892" TagName="worldly" Count="9" />
+  <row Id="894" TagName="suta" Count="2" />
+  <row Id="899" TagName="india" Count="6" />
+  <row Id="905" TagName="atman" Count="3" />
+  <row Id="908" TagName="word" Count="4" />
+  <row Id="910" TagName="guidance" Count="32" />
+  <row Id="911" TagName="stages" Count="3" />
+  <row Id="916" TagName="triggers" Count="2" />
+  <row Id="917" TagName="control" Count="6" />
+  <row Id="921" TagName="technology" Count="6" />
+  <row Id="924" TagName="future" Count="5" />
+  <row Id="930" TagName="enjoyment" Count="3" />
+  <row Id="931" TagName="positive" Count="2" />
+  <row Id="933" TagName="medicine" Count="3" />
+  <row Id="945" TagName="dhutanga" Count="3" />
+  <row Id="951" TagName="fear" Count="9" />
+  <row Id="952" TagName="anxiety" Count="9" />
+  <row Id="953" TagName="gurus" Count="3" />
+  <row Id="956" TagName="dispassion" Count="3" />
+  <row Id="959" TagName="dharmakirti" Count="5" />
+  <row Id="960" TagName="wheel-of-dhamma" Count="5" />
+  <row Id="964" TagName="papanca" Count="32" />
+  <row Id="969" TagName="personal-experience" Count="32" />
+  <row Id="972" TagName="life-after-death" Count="6" />
+  <row Id="974" TagName="virtue" Count="7" />
+  <row Id="979" TagName="lust" Count="5" />
+  <row Id="982" TagName="academic-study" Count="2" />
+  <row Id="986" TagName="existence" Count="15" />
+  <row Id="999" TagName="bhava" Count="3" />
+  <row Id="1001" TagName="aversion" Count="8" />
+  <row Id="1002" TagName="sampajana" Count="4" />
+  <row Id="1004" TagName="friendship" Count="3" />
+  <row Id="1005" TagName="noble-ones" Count="3" />
+  <row Id="1010" TagName="lokuttaradhamma" Count="2" />
+  <row Id="1020" TagName="vipaka" Count="4" />
+  <row Id="1023" TagName="parami" Count="2" />
+  <row Id="1025" TagName="joy" Count="3" />
+  <row Id="1026" TagName="vedana" Count="4" />
+  <row Id="1027" TagName="name-and-form" Count="5" />
+  <row Id="1030" TagName="atappa" Count="2" />
+  <row Id="1033" TagName="sukha" Count="3" />
+  <row Id="1035" TagName="lineages" Count="2" />
+  <row Id="1038" TagName="understanding" Count="3" />
+  <row Id="1049" TagName="emotion" Count="5" />
+  <row Id="1051" TagName="film-analysis" Count="2" />
+  <row Id="1053" TagName="purest" Count="2" />
+  <row Id="1054" TagName="metaphysics" Count="7" />
+  <row Id="1057" TagName="anti-thought" Count="5" />
+  <row Id="1058" TagName="discussion" Count="4" />
+  <row Id="1059" TagName="yuttadhammo" Count="8" />
+  <row Id="1063" TagName="agama" Count="2" />
+  <row Id="1070" TagName="cause-and-effect" Count="7" />
+  <row Id="1071" TagName="uncertainty" Count="2" />
+  <row Id="1073" TagName="story" Count="3" />
+  <row Id="1080" TagName="definition" Count="4" />
+  <row Id="1083" TagName="birth" Count="2" />
+  <row Id="1094" TagName="dharma-name" Count="2" />
+  <row Id="1096" TagName="mulamadhyamakakarika" Count="3" />
+  <row Id="1098" TagName="guilt" Count="2" />
+  <row Id="1101" TagName="shunyata" Count="3" />
+  <row Id="1105" TagName="feelings" Count="2" />
+  <row Id="1110" TagName="ebt" Count="1" />
+  <row Id="1112" TagName="titles" Count="1" />
+  <row Id="1114" TagName="non-self" Count="1" />
+  <row Id="1115" TagName="new" Count="1" />
+  <row Id="1116" TagName="age" Count="1" />
+  <row Id="1119" TagName="ftw" Count="1" />
+  <row Id="1120" TagName="yoniso" Count="1" />
+  <row Id="1121" TagName="manasikara" Count="1" />
+  <row Id="1122" TagName="sampajanna" Count="1" />
+  <row Id="1123" TagName="brahmacariya" Count="1" />
+  <row Id="1124" TagName="celibacy" Count="1" />
+  <row Id="1125" TagName="chastity" Count="1" />
+  <row Id="1126" TagName="pop-buddhism" Count="1" />
+  <row Id="1127" TagName="omens" Count="1" />
+  <row Id="1128" TagName="reification" Count="2" />
+  <row Id="1129" TagName="non-attachment" Count="1" />
+  <row Id="1131" TagName="parinibbana" Count="1" />
+  <row Id="1133" TagName="buddha-quotes" Count="1" />
+  <row Id="1134" TagName="pagoda" Count="1" />
+</tags>
